@@ -60,7 +60,7 @@
    [:thead
     [:tr
      [:td [:button "Word"]]
-     [:td [:button "Comma-separated syllabuses"]]]]
+     [:td [:button "Dot-separated syllabuses"]]]]
    [:tbody
     (for [word words]
       [:tr
