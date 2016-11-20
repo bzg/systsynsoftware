@@ -5,7 +5,9 @@
 A prototype for crowdsourcing Grapheme-Phonemes matching and GP
 frequencies in every language.
 
-This is working progress.
+See https://systsynsoftware.bzg.fr for a demo.
+
+This is a work in progress.
 
 * Run application
 
